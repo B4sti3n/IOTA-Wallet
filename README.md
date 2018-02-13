@@ -1,6 +1,6 @@
 <h1 align="center"> GitPoint </h1> <br>
 <p align="center">
-    <img   src="https://imgur.com/a/5VOoX" >
+    <img   src="https://imgur.com/a/5VOoX.png" >
   </a>
 </p>
 
