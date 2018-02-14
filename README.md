@@ -39,10 +39,6 @@ View repository and user information, control your notifications and even manage
 
 **Available for both iOS and Android.**
 
-<p align="center">
-  <img src = "http://i.imgur.com/HowF6aM.png" width=350>
-</p>
-
 ## Features
 
 A few of the things you can do with GitPoint:
