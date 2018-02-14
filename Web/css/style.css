@@ -979,9 +979,9 @@ header.video-on-right {
   min-height: auto;
   overflow-y: hidden;
   background: url('../img/bg-pattern.png'), #663FB5;
-  background: url('../img/bg-pattern.png'), -webkit-linear-gradient(to left, #0AE9A0, #207CD8);
+  background: url('../img/bg-pattern.png'), -webkit-linear-gradient(to left, #663FB5, rgb(15, 102, 184));
   /* Chrome 10-25, Safari 5.1-6 */
-  background: url('../img/bg-pattern.png'), linear-gradient(to left, #1478D4, #0AE9A0(15, 102, 184));
+  background: url('../img/bg-pattern.png'), linear-gradient(to left, #663FB5, rgb(15, 102, 184));
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   color: white;
 }
@@ -2058,10 +2058,10 @@ section.faqs .faq p {
   margin-top: 20px;
 }
 .splash--default {
-  background-color: #0EE8A2;
+  background-color: #2B8BE3;
 }
 .splash--primary {
-  background-color: #1D76D9;
+  background-color: #663FB5;
 }
 .splash--gray {
   background-color: #2b7ffd;
